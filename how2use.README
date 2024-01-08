@@ -1,0 +1,9 @@
+EDA_run.sh   : single point에 대한 EDA 계산 수행
+usage : ./EDA_run.sh xyzfile.xyz
+
+scan.sh      : coordinates/*.xyz 파일에 대해서 EDA 계산 수행
+usage : ./scan.sh
+
+decompoer.py : xyz traj 파일을 여러개의 xyz 파일로 조각냄
+usage : python3 decomposer.py your_traj.xyz chunk_size
+ex) python3 decomposer.py butadiene.xyz 13

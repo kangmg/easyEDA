@@ -1,0 +1,18 @@
+Original sobEDA        : http://sobereva.com/soft/sobEDA_tutorial.zip
+Modified this version  : https://github.com/kangmg/modified_sobEDA
+--------------------------------------------------------------------
+
+          	   EDA scan result summary ( SobEDA )
+
+
+ *  Calculation option  *   b3lyp/6-31G* em=gd3bj 
+ *       nFrages        *   2 
+ *      Frag info.      *   | 3-7 | 1-2, 8-10  | 
+ *        Date          *   2024. 01. 08. (월) 21:32:13 KST
+
+--------------------------------------------------------------------
+xyz_index   E_Tot       E_Els       E_Pauli     E_Orb        E_Ccorr
+--------------------------------------------------------------------
+  1        -127.49     -141.30      210.17     -172.95      -23.41
+  2        -127.49     -141.52      210.48     -173.03      -23.42
+  3        -127.46     -141.97      211.02     -173.09      -23.42
