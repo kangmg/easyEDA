@@ -1,5 +1,9 @@
 # easyEDA - modified version of sobEDA
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangmg%2FeasyEDA&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ## 1. 설명
 
 <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.3c04374">sobEDA</a> 코드 내부에 coordinate scan을 수행할 수 있는 기능이 포함되어있지만, IRC 좌표 등에 대해서 적용하긴 어려워보여서 코드 일부를 수정했습니다. IRC 또는 NEB 등으로부터 계산된 reaction coordinates 좌표에 대해서 sobEDA 계산을 수행하고 plot할 수 있는 코드도 포함했습니다.  
