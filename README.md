@@ -3,6 +3,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangmg%2FeasyEDA&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![Figure_1 (1)](https://github.com/kangmg/easyEDA/assets/59556369/074ae714-ee54-4d2a-a25a-87faa7aa3562)
+
 
 ## 1. 설명
 
